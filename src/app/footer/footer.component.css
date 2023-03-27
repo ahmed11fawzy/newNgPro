@@ -1,0 +1,19 @@
+footer {
+  background-color: #2C3E50;
+  min-height: 250px;
+  color: white;
+
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-inline: 3px;
+  width: 50px !important;
+  height: 50px !important;
+
+}
+.copyRights{
+  height: 50px;
+  background-color: #1A252F;
+}

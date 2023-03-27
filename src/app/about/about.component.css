@@ -1,0 +1,23 @@
+
+#About{
+  height: 550px;
+  background-color: #1ABC9C;
+}
+h2{
+  margin-top: 90px;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 56px;
+  color:#fff;
+}
+.line{
+  margin-top: 14px;
+  width: 120px;
+  height: 4px;
+  background-color: #ffffff;
+}
+.fa-star{
+  display: block;
+  font-size: 30px;
+  color:rgb(255, 255, 255);
+}
